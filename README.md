@@ -18,7 +18,7 @@ git clone https://github.com/ItsFadinG/Virustotal-Script
 ```sh
 pip install requests
 ```
-4. Open the script and put you API_KEY
+4. Open the script and put your API_KEY
 ```Python
 API = 'ENTER YOUR API'
 ```
