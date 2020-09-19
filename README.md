@@ -18,10 +18,10 @@ To get a local copy up and running follow these simple example steps.
 
 ### Installation
 
-1. Get a free API Key at [https://www.virustotal.com/gui/home/url](https://example.com)
+1. Get a free API Key at [https://www.virustotal.com](https://example.com)
 2. Clone the repo
 ```sh
-git clone https://github.com/your_username_/Project-Name.git
+git clone https://github.com/ItsFadinG/VirustoataScript
 ```
 3. Install the requirments
 ```sh
@@ -34,10 +34,8 @@ API = 'ENTER YOUR API'
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-``
-```Python
+This script will use your api key on virustotal website to dump all the information that you need from it including scaning the Ip, domain, url and a file hash.
+```sh
 Python3 Virustotal_checker.py [URL or Domain or IP or file Hash]
 ```
 
