@@ -27,7 +27,7 @@ git clone https://github.com/ItsFadinG/VirustoataScript
 ```sh
 pip install requests
 ```
-4. Enter your API in ``
+4. Open the script and put you API_KEY
 ```Python
 API = 'ENTER YOUR API'
 ```
