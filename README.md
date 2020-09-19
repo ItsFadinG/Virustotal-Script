@@ -1,4 +1,4 @@
-# VirustoataScript
+# VirustotalScript
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- TABLE OF CONTENTS -->
